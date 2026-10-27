@@ -1,0 +1,8 @@
+{
+  "name": "Doctor Strange AR Shield",
+  "description": "An AR web application that detects your hand via webcam and overlays a magical shield.",
+  "requestFramePermissions": [
+    "camera"
+  ],
+  "majorCapabilities": []
+}
